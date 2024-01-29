@@ -261,13 +261,13 @@
 
 
 const imageUrls = [
-  '/assets/img/universityevent/img1.jpg',
-  '/assets/img/universityevent/img2.jpg',
-  '/assets/img/universityevent/img3.jpg',
-  '/assets/img/universityevent/img4.jpg',
-  '/assets/img/universityevent/img5.jpg',
-  '/assets/img/universityevent/img6.jpg',
-  '/assets/img/universityevent/img7.jpg',
+  './assets/img/universityevent/img1.jpg',
+  './assets/img/universityevent/img2.jpg',
+  './assets/img/universityevent/img3.jpg',
+  './assets/img/universityevent/img4.jpg',
+  './assets/img/universityevent/img5.jpg',
+  './assets/img/universityevent/img6.jpg',
+  './assets/img/universityevent/img7.jpg',
   // Add more image URLs as needed
 ];
 
